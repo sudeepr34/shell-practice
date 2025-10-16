@@ -1,7 +1,7 @@
 #!/bin/bsah
 
-Person1=Trump
-Person2=Putin
+Person1=$1
+Person2=$2
 
 echo "${Person1}: Welcome to ALska Putin"
 echo "${Person2}: Thank you Trump"
