@@ -1,5 +1,7 @@
 #!/bin/bsah
 
+# Arguments passing
+
 Person1=$1
 Person2=$2
 
